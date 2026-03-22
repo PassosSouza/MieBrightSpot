@@ -13,5 +13,11 @@ This repository contains the Python notebooks used to analyze the relation betwe
 3. **[MieFigure - General.ipynb](./MieFigure%20-%20General.ipynb)**  
    This notebook demonstrates how to calculate light propagation using **Mie scattering** theory and show all calculations using y and circular polarized incident plane wave.
 
-3. **[ComparaCirc-Esf.ipynb](./ComparaCirc-Esf.ipynb)**  
+4. **[ComparaCirc-Esf.ipynb](./ComparaCirc-Esf.ipynb)**  
    This notebook contains comparisons between the well-known 1D bright spot model and 3D propagation using Mie scattering.  
+
+5. **[CompareEfficiency_N_Mie.ipynb](./CompareEfficiency_N_Mie.ipynb)**  
+   This notebook contains comparisons between profiles using different number of terms on the Mie coefficients.
+
+6. **[MieFigure_SeePOynting.ipynb](./MieFigure_SeePOynting.ipynb)**  
+   This notebook contains comparisons between the Intensity calculated using the Poynting Vector and just the electric field.
